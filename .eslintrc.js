@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['next/core-web-vitals'],
+  extends: ['next/core-web-vitals', 'prettier'],
   rules: {
     // Customize rules as needed
     'react/no-unescaped-entities': 'off',
