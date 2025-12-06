@@ -51,19 +51,19 @@
     "rating": 4.5,
     "launchedYear": 2021
   },
-  {
-    "id": "notion-ai",
-    "name": "Notion AI",
-    "category": "Productivity",
-    "pricing": "Freemium",
-    "shortDescription": "AI-powered workspace that helps with writing, summarizing, and organizing information.",
-    "longDescription": "Notion AI brings artificial intelligence directly into your Notion workspace. It can help you write better, think bigger, and work faster by assisting with brainstorming, editing, summarizing, and organizing your notes and documents.\n\nSeamlessly integrated into the Notion interface you already know, Notion AI can generate first drafts, improve your writing, create action items from meeting notes, and even help with creative tasks like writing blog posts or social media content.\n\nIdeal for teams and individuals who already use Notion and want to supercharge their productivity with AI capabilities.",
-    "logoUrl": "/logos/notion.svg",
-    "website": "https://notion.so/product/ai",
-    "tags": ["productivity", "writing", "organization"],
-    "rating": 4.6,
-    "launchedYear": 2023
-  },
+  // {
+  //   "id": "notion-ai",
+  //   "name": "Notion AI",
+  //   "category": "Productivity",
+  //   "pricing": "Freemium",
+  //   "shortDescription": "AI-powered workspace that helps with writing, summarizing, and organizing information.",
+  //   "longDescription": "Notion AI brings artificial intelligence directly into your Notion workspace. It can help you write better, think bigger, and work faster by assisting with brainstorming, editing, summarizing, and organizing your notes and documents.\n\nSeamlessly integrated into the Notion interface you already know, Notion AI can generate first drafts, improve your writing, create action items from meeting notes, and even help with creative tasks like writing blog posts or social media content.\n\nIdeal for teams and individuals who already use Notion and want to supercharge their productivity with AI capabilities.",
+  //   "logoUrl": "/logos/notion.svg",
+  //   "website": "https://notion.so/product/ai",
+  //   "tags": ["productivity", "writing", "organization"],
+  //   "rating": 4.6,
+  //   "launchedYear": 2023
+  // },
   {
     "id": "claude",
     "name": "Claude",
